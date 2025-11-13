@@ -1,12 +1,17 @@
 body {
     background-color: rgb(132, 211, 218);
+    background-image: url("himmel.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     font-family: Helvetica Now Text;
     color: yellow;
 }
 
 h1 {
     text-align: center;
-    color: rgb(28, 178, 143);
+    color: rgb(14, 79, 64);
     font-size: 120px;
 }
 
