@@ -1,18 +1,20 @@
 body {
-    background-color: black;
+    background-color: rgb(132, 211, 218);
     font-family: Helvetica Now Text;
     color: yellow;
 }
 
 h1 {
     text-align: center;
-    color: aqua;
+    color: rgb(28, 178, 143);
+    font-size: 120px;
 }
 
 p {
-    font-size: 18px;
-    text-align: center;
-    color: white;
+    font-size: 90px;
+    text-align: left;
+    color: rgb(44, 108, 145);
+    
 }
 
 .meineKlasse {
@@ -21,11 +23,31 @@ p {
 }
 
 img {
-    width: 300px;
-}
+    width: 280px;
+} 
 
 .video {
     width: 400px;
     height: 220px
 }
 
+.hole-online {
+    display: block;
+    color: rgb(28, 28, 157);
+    text-align: right;
+    font-size: 80px;
+}
+
+.snake-io {
+    display: block;
+    text-align: right;
+    font-size: 80px;
+    color: rgb(28, 28, 157)
+    
+}
+
+.runter {
+    text-align: right;
+    color: black ;
+
+}
